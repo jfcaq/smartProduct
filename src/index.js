@@ -1,0 +1,1 @@
+alert("smart Product");
